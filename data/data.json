@@ -1,0 +1,103 @@
+{
+  "StudentData": [
+    {
+      "phone": "Hook",
+      "name": "Stephen",
+      "email": "muema22@GMAIL.COM",
+      "id": "1",
+      "course": "Software development",
+      "Attadace": "Present"
+    },
+    {
+      "id": "4504",
+      "phone": "0724343314",
+      "name": "Stella Mwangi",
+      "email": "mwangi12@gmail.com",
+      "course": "Software developer",
+      "Attedance": ""
+    },
+    {
+      "id": "f424",
+      "phone": "0724343314",
+      "name": "Stella Mwangi",
+      "email": "mwangi12@gmail.com",
+      "course": "Software developer",
+      "Attedance": ""
+    },
+    {
+      "id": "321e",
+      "phone": "0724343314",
+      "name": "Stella Mwangi",
+      "email": "mwangi12@gmail.com",
+      "course": "Software developer",
+      "Attedance": ""
+    },
+    {
+      "id": "35eb",
+      "phone": "0724343314",
+      "name": "Stella Mwangi",
+      "email": "mwangi12@gmail.com",
+      "course": "Software developer",
+      "Attedance": ""
+    },
+    {
+      "id": "fe44",
+      "phone": "1221",
+      "name": "diana macoh",
+      "email": "diana@gmail.com",
+      "course": "Software developer",
+      "Attedance": ""
+    },
+    {
+      "id": "9fb0",
+      "phone": "1221",
+      "name": "diana macoh",
+      "email": "diana@gmail.com",
+      "course": "Software developer",
+      "Attedance": ""
+    },
+    {
+      "id": "b34d",
+      "phone": "1221",
+      "name": "diana macoh",
+      "email": "diana@gmail.com",
+      "course": "Software developer",
+      "Attedance": ""
+    },
+    {
+      "id": "bcee",
+      "phone": "0769747803",
+      "name": "Stephen Muema",
+      "email": "muema1476@gmail.com",
+      "course": "software dev",
+      "Attedance": "",
+      "attedance": "on"
+    },
+    {
+      "id": "0d55",
+      "phone": "0769747803",
+      "name": "Stephen Muema",
+      "email": "muema1476@gmail.com",
+      "course": "software dev",
+      "Attedance": "",
+      "attedance": "on"
+    },
+    {
+      "id": "958d",
+      "phone": "073343212",
+      "name": "John Mutei",
+      "email": "mutei112@gmail.com",
+      "course": "data entry",
+      "Attedance": "",
+      "attedance": "on"
+    },
+    {
+       "id": "4f36",
+      "phone": "",
+      "name": "",
+      "email": "",
+      "course": "",
+      "Attedance": ""
+    }
+  ]
+}
